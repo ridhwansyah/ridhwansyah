@@ -1,6 +1,6 @@
 ![Ridhwansyah](./github-header-image-baru.png)
 
-<div align="center">
+<div align="start">
 I'm an Information Systems student at Universitas Gunadarma, currently learning Web Development and passionate about building websites.
 </div>
 
