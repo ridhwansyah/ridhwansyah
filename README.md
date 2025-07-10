@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hello there! My name is Ridhwansyah. 👋🤓
+
+<div align="center">
+I'm an Information Systems student at Universitas Gunadarma, currently learning Web Development and passionate about building websites.
+</div>
+
+##### You can contact me:
+![https://www.instagram.com/wawan_p_s?igsh=MTNlbWdiZzdqODZieA==](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mridhwansyahps@gmail.com)
 
 <!--
 **ridhwansyah/ridhwansyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
