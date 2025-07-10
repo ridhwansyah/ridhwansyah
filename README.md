@@ -1,4 +1,4 @@
-## Hello there! My name is Ridhwansyah. 👋🤓
+![Ridhwansyah](github-header-image)
 
 <div align="center">
 I'm an Information Systems student at Universitas Gunadarma, currently learning Web Development and passionate about building websites.
