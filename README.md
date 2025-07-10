@@ -1,6 +1,6 @@
 ![Ridhwansyah](./github-header-image-baru.png)
 
-<div align="start">
+<div align="right">
 I'm an Information Systems student at Universitas Gunadarma, currently diving into the world of Web Development. Currently focused on learning modern tools like the Laravel framework. Passionate about building responsive and meaningful websites that solve real-world problems.  
 </div>
 
