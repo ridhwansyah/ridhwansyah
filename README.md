@@ -5,7 +5,7 @@ I'm an Information Systems student at Universitas Gunadarma, currently learning 
 </div>
 
 ##### You can contact me:
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wawan_p_s?igsh=MTNlbWdiZzdqODZieA==) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=mridhwansyahps@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wawan_p_s?igsh=MTNlbWdiZzdqODZieA==)
 
 
 <!--
