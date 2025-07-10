@@ -5,7 +5,7 @@ I'm an Information Systems student at Universitas Gunadarma, currently learning 
 </div>
 
 ##### You can contact me:
-[[![Instagram Badge](https://img.shields.io/badge/Instagram_Profile-black?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/wawan_p_s?igsh=MTNlbWdiZzdqODZieA==)](https://github.com/ridhwansyah) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mridhwansyahps@gmail.com)
+![https://www.instagram.com/wawan_p_s?igsh=MTNlbWdiZzdqODZieA==](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mridhwansyahps@gmail.com)
 
 <!--
 **ridhwansyah/ridhwansyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
